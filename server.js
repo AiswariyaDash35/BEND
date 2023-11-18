@@ -11,4 +11,4 @@ app.use(cors());//cross origin resource sharing
 app.use(express.json());
 app.use("/api/v1/employee",router);
 
-app.listen(5500);
+app.listen(6000);
